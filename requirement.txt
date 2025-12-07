@@ -1,5 +1,9 @@
-streamlit
-pandas
-beautifulsoup4
+numpy
+bs4
 requests
-plotly
+scipy
+matplotlib
+pandas
+streamlit
+seaborn
+pybase64
