@@ -1,2 +1,3 @@
-# daka-auto-scraper
-WELCOM TO DAKAR_AUTO_SCRAPER
+# DAKA_AUTO_SCRAPER
+
+Application de scraping pour Dakar-Auto.com
