@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 from requests import get
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
@@ -1037,4 +1037,5 @@ st.markdown("""
 <div style='text-align: center; color: white;'>
     <p>Made with  by MARIE | © 2024 DAKA_AUTO_SCRAPER</p>
 </div>
+
 """, unsafe_allow_html=True)
